@@ -1,0 +1,15 @@
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\bin\Debug\SCardSystem.exe.config
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\bin\Debug\SCardSystem.exe
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\bin\Debug\SCardSystem.pdb
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.admin.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.edit.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.guaduation.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.login.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.forms.readerConnect.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.Properties.Resources.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.service.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.shop.resources
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.csproj.GenerateResource.Cache
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.exe
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.pdb
+C:\Users\jcm\documents\visual studio 2013\Projects\SCardSystem\SCardSystem\obj\Debug\SCardSystem.csprojResolveAssemblyReference.cache
